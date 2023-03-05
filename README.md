@@ -1,1 +1,1 @@
-# Disease Pathways
+# Analysis of Disease Pathways in the Human Interactome
